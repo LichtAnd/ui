@@ -2,9 +2,9 @@
 
 namespace LichtAnd\Ui;
 
+use LichtAnd\Ui\Commands\UiCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use LichtAnd\Ui\Commands\UiCommand;
 
 class UiServiceProvider extends PackageServiceProvider
 {
